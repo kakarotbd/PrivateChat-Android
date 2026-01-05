@@ -61,7 +61,7 @@ By utilizing **PrivateChat**, you acknowledge the following:
 
 ## 📥 Getting Started (Installation)
 
-1. Navigate to the **[Releases]([https://github.com/kakarotbd/PrivateChat-Android/releases](https://github.com/kakarotbd/PrivateChat-Android))** tab.
+1. Navigate to the **[Releases](https://github.com/kakarotbd/PrivateChat-Android)** tab.
 2. Download the **latest APK** binary.
 3. Enable **"Unknown Sources"** in your Android Security Settings.
 4. Launch the app and experience the future of private messaging.
