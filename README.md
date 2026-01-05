@@ -1,2 +1,1 @@
-# PrivateChat-Android
-A high-security private messaging app built with Kotlin and C++ NDK to ensure maximum data protection and seamless communication
+🛡️ "PrivateChat is a robust Android messaging platform designed for users who prioritize privacy. By leveraging the power of C++ NDK (Native Development Kit), the app hides critical configurations from reverse engineering. Featuring a professional download manager, real-time mic support, and a sleek dark-themed UI, it offers a secure and high-performance chatting experience."
