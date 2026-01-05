@@ -61,7 +61,7 @@ This app operates strictly under our integrated **Privacy Policy** and **Terms &
 
 ## 📥 Installation
 
-Grab the latest APK from the **[Releases](https://github.com/kakarotbd/PrivateChat-Android)** section. Ensure "Unknown Sources" is enabled in your Android settings before installation.
+Grab the latest APK from the **[Releases](https://github.com/kakarotbd/PrivateChat-Android/releases/tag/v1.0.0-beta)** section. Ensure "Unknown Sources" is enabled in your Android settings before installation.
 
 ---
 
