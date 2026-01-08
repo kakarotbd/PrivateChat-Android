@@ -1,10 +1,10 @@
-# 🛡️ PrivateChat: Military-Grade Secure & Anonymous Messaging Protocol
+# 🛡️ Ghost Chat: Military-Grade Secure & Anonymous Messaging Protocol
 
 ![Build Status](https://img.shields.io/badge/BUILD-BETA_DEVELOPMENT-FF6B00?style=for-the-badge&logo=android&logoColor=white)
 ![Security Level](https://img.shields.io/badge/SECURITY-NDK_BOLTED-FF0000?style=for-the-badge&logo=lock&logoColor=white)
 ![Privacy Guarantee](https://img.shields.io/badge/PRIVACY-ABSOLUTE-00FF00?style=for-the-badge&logo=eye-off&logoColor=white)
 
-**PrivateChat** revolutionizes secure mobile communication with a **security-first architecture** that combines Android NDK fortification with zero-knowledge protocols. Built for privacy advocates, security professionals, and conscious communicators worldwide.
+**Ghost Chat** revolutionizes secure mobile communication with a **security-first architecture** that combines Android NDK fortification with zero-knowledge protocols. Built for privacy advocates, security professionals, and conscious communicators worldwide.
 
 ---
 
@@ -239,14 +239,12 @@ During account creation, you receive a **12-Word Recovery Key** — your digital
 
 ## 📞 **CONTACT & RESPONSIBLE DISCLOSURE**
 
-- **Security Vulnerabilities:** security@privatechat.example (encrypted)
-- **General Inquiries:** contact@privatechat.example
-- **Community Support:** GitHub Discussions
-- **Legal Matters:** legal@privatechat.example
+- **General Inquiries:** rafin.goku@gmail.com
+
 
 ---
 
-**Final Disclaimer:** *PrivateChat is a tool for private, ethical communication. Use responsibly during this development phase. Your privacy is our priority, but your responsibility is paramount.*
+**Final Disclaimer:** *Ghost Chat is a tool for private, ethical communication. Use responsibly during this development phase. Your privacy is our priority, but your responsibility is paramount.*
 
 ---
 
@@ -258,4 +256,4 @@ During account creation, you receive a **12-Word Recovery Key** — your digital
 
 ---
 **"In a world of surveillance, we build tools of liberation."**  
-**— The PrivateChat Development Collective**
+**— The Ghost Chat Development Collective**
